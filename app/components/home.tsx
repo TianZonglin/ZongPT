@@ -632,7 +632,7 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            基于GPT-3.X的AI问答助手
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />

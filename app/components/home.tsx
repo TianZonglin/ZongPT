@@ -630,7 +630,7 @@ export function Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>Zonbutton_icon-button__BC_Ca undefined GPT</div>
+          <div className={styles["sidebar-title"]}>ZonGPT-bot</div>
           <div className={styles["sidebar-sub-title"]}>
             基于GPT-3.X的AI问答助手
           </div>
